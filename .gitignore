@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/Sudoku
+/SudokuConsole/bin/Debug/net6.0
+/SudokuConsole/obj
